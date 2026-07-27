@@ -7,7 +7,21 @@
 
 
 -27/07-
-  Tópico
-    *SUBTOPICO
-    *SUBTOPICO
-  Tópico
+  Algoritmos de ordenação
+    * Sort 
+      * select
+      * buble
+      * insertion
+      * agitação
+      * radix
+      * bucket
+      * merge (complexos, mas baixa complexidade)
+      * quick (complexos, mas baixa complexidade)
+      * comb
+      * shell
+      * heap
+    * Complexidade (Esforço computacional)
+      * Simples, mas altra comlplexidade não são funcionais
+    
+      
+  
