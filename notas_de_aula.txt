@@ -1,12 +1,23 @@
 
 -30/07-
-  Tópico
-    *SUBTOPICO
-    *SUBTOPICO
-  Tópico
+  Conceitos iniciais
+    - ordenar: organizar uma estrutura (lista ou vetor) a partir de um ou mais índices ou chaves
+        - por que ordenar?
+          - para otimizar a busca ou pesquisa
+    - pesquisar/find/search: localizar ou buscar um dado dentro de uma estrutura via alguma chave
+    - recuperar/retrieve: localizar ou buscar dados com relevância(semântica ou significado) --> buscador da google
+    - CRUD: CREATE, RETRIEVE, UPDATE, DELETE
 
 
 -27/07-
+  Pesquisa e ordenação
+    - ordenação: conceitos; algoritmos
+    - pesquisa: conceitos; algoritmos
+    - pesquisa digital: algoritmos
+    - tabelas hash: conceitos; algoritmos
+    - balanceamento em árvores: conceitos; algoritmos
+    - árvores B: conceitos; algoritmos
+
   Algoritmos de ordenação
     * Sort 
       * select
@@ -20,8 +31,20 @@
       * comb
       * shell
       * heap
-    * Complexidade (Esforço computacional)
-      * Simples, mas altra comlplexidade não são funcionais
+    * Complexidade de um alrgorítmo (Esforço computacional de um algorítmo), é o quanto de recurso ele aloca para
+      realizar suas tarefas
+      * alta complexidade: mais esforço
+      * baixa complexidade: menos esforço
+      * Notação Big O 
+        * linear(n) ---> boa
+        * logaritmico(log n) ---> excelente, menor complexidade
+          * logaritmico(log n + n)
+        * exponecial(n^x) ---> ruim
+        * fatorial(n!) ---> pior ainda, maior complexidade
+        * Propósito simples, mas altra comlplexidade não são funcionais
+      * Estabilidade
+        * quanto a estrutura é desordenada até chegar na ordenação
+        * melhores algorítimos de pesquisa e ordenação são os instáveis
     
       
   
