@@ -8,61 +8,61 @@
     - 2. Controller (Menu, CRUD)    
     - 3. View
 
--Bubble Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Estável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: Final do vetor.
--Selection Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Instável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: Início do vetor.
--Insertion Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Estável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: Início do vetor.
--Shell Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Instável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: Não possui uma porção fixa ordenada; trabalha com subsequências parcialmente ordenadas.
--Shake Sort (Cocktail Sort):
-    *Memória: Memória interna.
-    *Estabilidade: Estável.
-    *Notação Big-O: O(n²)
--Porção ordenada: Início e fim do vetor.
-    *Comb Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Instável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: Não possui uma porção fixa ordenada.
+  -Bubble Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Estável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: Final do vetor.
+  -Selection Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Instável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: Início do vetor.
+  -Insertion Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Estável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: Início do vetor.
+  -Shell Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Instável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: Não possui uma porção fixa ordenada; trabalha com subsequências parcialmente ordenadas.
+  -Shake Sort (Cocktail Sort):
+      *Memória: Memória interna.
+      *Estabilidade: Estável.
+      *Notação Big-O: O(n²)
+  -Porção ordenada: Início e fim do vetor.
+      *Comb Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Instável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: Não possui uma porção fixa ordenada.
   -Heap Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Instável.
-    *Notação Big-O: O(n log n)
-  *Porção ordenada: Final do vetor.
--Merge Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Estável.
-    *Notação Big-O: O(n log n)
-    *Porção ordenada: Subvetores ordenados que são mesclados ao final.
--Quick Sort:
-    *Memória: Memória interna.
-    *Estabilidade: Instável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: O pivô fica na posição definitiva após cada partição.
--Bucket Sort:
-    *Memória: Memória externa.
-    *Estabilidade: Estável.
-    *Notação Big-O: O(n²)
-    *Porção ordenada: Cada bucket é ordenado individualmente antes da junção.
--Radix Sort:
-*Memória: Memória externa.
-    *Estabilidade: Estável.
-    *Notação Big-O: O(d(n + k))
-    *Porção ordenada: Os elementos ficam ordenados pelos dígitos já processados.
+      *Memória: Memória interna.
+      *Estabilidade: Instável.
+      *Notação Big-O: O(n log n)
+      *Porção ordenada: Final do vetor.
+  -Merge Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Estável.
+      *Notação Big-O: O(n log n)
+      *Porção ordenada: Subvetores ordenados que são mesclados ao final.
+  -Quick Sort:
+      *Memória: Memória interna.
+      *Estabilidade: Instável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: O pivô fica na posição definitiva após cada partição.
+  -Bucket Sort:
+      *Memória: Memória externa.
+      *Estabilidade: Estável.
+      *Notação Big-O: O(n²)
+      *Porção ordenada: Cada bucket é ordenado individualmente antes da junção.
+  -Radix Sort:
+      *Memória: Memória externa.
+      *Estabilidade: Estável.
+      *Notação Big-O: O(d(n + k))
+      *Porção ordenada: Os elementos ficam ordenados pelos dígitos já processados.
 
   
 
