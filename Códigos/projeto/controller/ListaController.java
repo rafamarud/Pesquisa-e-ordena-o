@@ -1,4 +1,7 @@
-package br.edu.ufn.MedidorTempo.controller
+package projeto.controller;
+
+import projeto.model.Utilidades;
+import projeto.view.ExibicaoView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +9,7 @@ import java.util.List;
 /*
 Construir um programa que popule 2 listas: uma com números aleatórios e outra com números sequencias... temporizando cada rotina
  */
-public class MedidorTempoController{
+public class ListaController{
     public void executar() {
         long tempoInicio, tempoFim;
         List<Integer> listaAleatoria = new ArrayList<>();

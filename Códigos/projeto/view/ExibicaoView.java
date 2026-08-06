@@ -1,8 +1,8 @@
-package br.edu.ufn.MedidorTempo.view;
+package projeto.view;
 
 import java.util.List;
 
-public class Utilidades{
+public class ExibicaoView{
     /**
      * método de classe que exibe conteúdo de uma lista de inteiros
      * * @param lista
@@ -13,7 +13,7 @@ public class Utilidades{
         for(Object item: lista) {
             System.out.println(item);
         }
-        System.out.println("-----------------------")
+        System.out.println("-----------------------");
         System.out.println("Total de Registros: " + lista.size());
     }
 }

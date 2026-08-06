@@ -1,10 +1,10 @@
-package br.edu.ufn.MedidorTempo.model;
-
+package projeto.model;
+ 
 import java.util.List;
 import java.util.Random;
 
 
-class Utilidades {
+public class Utilidades {
     /**
      * método de classe que popula lista ou com números aleatorios e de forma sequencial dentro de uma faixa
      * @param lista
@@ -28,3 +28,4 @@ class Utilidades {
             }
         }
     }
+}

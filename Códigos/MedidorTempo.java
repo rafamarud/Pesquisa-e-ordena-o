@@ -45,7 +45,7 @@ class Utilidades {
 /*
 Construir um programa que popule 2 listas: uma com números aleatórios e outra com números sequenciais... temporizando cada rotina
 */
-public class 2_ExemploMedicaoTempo {
+public class MedidorTempo {
     public static void main(String[] args) {
         long tempoInicio, tempoFim;  
         List<Integer> listaAleatoria = new ArrayList<>();
