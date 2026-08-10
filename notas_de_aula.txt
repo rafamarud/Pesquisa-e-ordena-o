@@ -1,6 +1,11 @@
 -10/08-
 Revisão sobre os tipos de Sort ( aula 03/08 )
+* Fazer no modelo MVC (Lista bolha, seleçao e inserção)
+  - descobrir em qual camada colocar a ordenação
+  - 5000 numeros em cada
+  - temporizar cada um
 
+  
 
 -06/08-
 Premissas da "Disciplina"
