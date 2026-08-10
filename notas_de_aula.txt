@@ -1,3 +1,7 @@
+-10/08-
+Revisão sobre os tipos de Sort ( aula 03/08 )
+
+
 -06/08-
 Premissas da "Disciplina"
   - Padrão de Desenvolvimento
