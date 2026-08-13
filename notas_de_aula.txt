@@ -1,3 +1,7 @@
+-13/08-
+
+comparar (medir tempo) sort, bolha e o agitacao( modelo mvc)
+
 -10/08-
 Revisão sobre os tipos de Sort ( aula 03/08 )
 * Fazer no modelo MVC (Lista bolha, seleçao e inserção)
