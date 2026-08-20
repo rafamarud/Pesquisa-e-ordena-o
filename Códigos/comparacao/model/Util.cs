@@ -1,22 +1,17 @@
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 
-namespace projeto.view
+namespace projeto.model
 {
     class Util
     {
-        public static void exibir(List<int> lista)
+        public static void popular(List<int> lista, int quantidade)
         {
-            foreach (var item in lista)
+            Random gerador = new Random();
+            for (int i = 0; i < quantidade; i++)
             {
-                Console.WriteLine(item.ToString());
+                lista.Add(gerador.Next(100000));
             }
-        }
-
-        public static void exibirTempo(Stopwatch sw, string frase)
-        {
-            Console.WriteLine(frase + " (ms): " + sw.ElapsedMilliseconds);
         }
     }
 }
