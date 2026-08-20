@@ -1,4 +1,7 @@
 -20/08-
+-Testar o método comb
+-Comparar com bolha, agitacao e sort
+-Colocar o comb no benchmark
 
 
 -13/08-
