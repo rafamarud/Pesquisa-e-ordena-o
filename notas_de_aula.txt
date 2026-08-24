@@ -1,3 +1,7 @@
+-24/08-
+-Prova proxima aula;
+-Teoria + decorar 1 método de ordenação
+
 -20/08-
 -Testar o método comb
 -Comparar com bolha, agitacao e sort
