@@ -1,4 +1,27 @@
+-03/09-
+
+- MERGE sort:
+  *Ordena na "volta"
+  *RECURSIVO
+  *INTERCALAR
+  *Complexidade: O(n)
+  *Composto por 2 métodos
+    - merge: recursao
+    - intercalar: ordenar no retorno do "Empilhamento"
+  * O processo é baseado em divisões de estrutura, recursivamente. sempre no meio
+
+- QUICK sort:
+  *Ordena na "ída"
+  *RECURSIVO
+  *PIVÔ
+  *Complexidade: O(n)
+  *Composto por 2 métodos
+    -quick: recursao
+    -posicionar: ordena o pivo
+  * O Processo é baseado em divisões da estrutura, recursivamente, porém obedecendo a posição do pivô
+
 -24/08-
+
 -Prova proxima aula;
 -Teoria + decorar 1 método de ordenação
 
@@ -22,6 +45,7 @@ Revisão sobre os tipos de Sort ( aula 03/08 )
   
 
 -06/08-
+
 Premissas da "Disciplina"
   - Padrão de Desenvolvimento
     * Ideida de MVC
@@ -34,6 +58,7 @@ Premissas da "Disciplina"
 
 
 -03/08-
+
   Padrão arquitetural
   - MVC
       * Model
@@ -114,6 +139,7 @@ Premissas da "Disciplina"
 
 
 -27/07-
+
   Pesquisa e ordenação
     - ordenação: conceitos; algoritmos
     - pesquisa: conceitos; algoritmos
