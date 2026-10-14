@@ -1,6 +1,7 @@
 -14/10-
 
 - HASH
+  - NÃO TEM INDICE
   - é um tipo de pesquisa
   - função de espalhamento, ou seja, um dado é armazenado ou pesquisado na estrutura via um código de endereçamento
   - conceitos
