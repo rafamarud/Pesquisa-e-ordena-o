@@ -1,5 +1,13 @@
 -14/10-
 
+1) armazene em um HashMap os dados do arquivo telephon_sessions.txt, usando como classe a claase implementada em Sessao.java
+    - ler o arquivo
+    - splitar as linhas
+    - criar um objeto do tipo Sessao
+    - adicionar (put) no HashMap
+2) permite procurar um númerp de celular e o retorne seja os dados da sessão
+3) DESAFIO: pesquisa sobre o uso de threads e tente procurar N celulares ao mesmo tempo
+
 - HASH
   - NÃO TEM INDICE
   - é um tipo de pesquisa
