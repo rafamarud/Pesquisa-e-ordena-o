@@ -1,3 +1,8 @@
+-19/10-
+-Tabela Hash pequena ocorrem muitas colisões
+    - quando maior menos colisão tem
+
+
 -14/10-
 
 1) armazene em um HashMap os dados do arquivo telephon_sessions.txt, usando como classe a claase implementada em Sessao.java
