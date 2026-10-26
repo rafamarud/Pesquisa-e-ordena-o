@@ -14,7 +14,7 @@
                 • A raiz é nula; seguir um caminho da raiz até um nó forma uma palavra.
                 • Um marcador especial no nó indica se aquele caminho forma uma palavra completa.
                • Vantagem: Ótima para auto-completar palavras e buscas por prefixos.
-             • Desvantagem: Pode consumir muita memória se houver muitos nós com apenas um único filho (caminhos esparsos).
+             • Desvantagem: Possibilita árvores muito profundas
          - Árvore Patricia
             • Significado: Practical Algorithm To Retrieve Information Coded in Alphanumeric (Algoritmo Prático para Recuperar Informação Codificada em Alfanumérico).
             • O que é: Uma versão compacta da Trie.
