@@ -1,3 +1,29 @@
+-26/10-
+-PESQUISA DIGITAL
+    - Vocabulário
+    - Letras
+    - Trie e Patricia
+        - Palavras
+        - Nó de colisão
+        - Armazenamento
+        - Árvore digital (Trie)
+            • O que é: Uma árvore de busca onde os caracteres de uma string são armazenados nos nós e nos caminhos (não a chave inteira no nó).
+            • Nome: Vem de reTRIEval (recuperação), mas pronuncia-se "trái".
+            • Funcionamento:
+                • Cada nível da árvore representa um caractere ou bit da chave.
+                • A raiz é nula; seguir um caminho da raiz até um nó forma uma palavra.
+                • Um marcador especial no nó indica se aquele caminho forma uma palavra completa.
+               • Vantagem: Ótima para auto-completar palavras e buscas por prefixos.
+             • Desvantagem: Pode consumir muita memória se houver muitos nós com apenas um único filho (caminhos esparsos).
+         - Árvore Patricia
+            • Significado: Practical Algorithm To Retrieve Information Coded in Alphanumeric (Algoritmo Prático para Recuperar Informação Codificada em Alfanumérico).
+            • O que é: Uma versão compacta da Trie.
+            • Funcionamento:
+                • Elimina nós redundantes que possuem apenas um filho, unindo-os aos seus antecessores.
+                • Cada nó armazena um índice numérico (k) que aponta diretamente para a posição do primeiro bit em que as chaves se diferem, pulando os trechos idênticos.
+                • O número de nós na árvore Patricia é proporcional ao número de chaves armazenadas.
+             • Vantagem: Muito mais econômica em espaço do que a Trie tradicional e extremamente rápida para buscas binárias.
+
 -19/10-
 -Tabela Hash pequena ocorrem muitas colisões
     - quando maior menos colisão tem
