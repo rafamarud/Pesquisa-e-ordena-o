@@ -1,3 +1,20 @@
+-09/11-
+REVISÃO
+HASH: guardar e buscar (com foco em hash)
+ARVORE: guardar buscar e relatório (ja insere ordenado)
+    - para ser excelente precisa de uma relação com balanceamento (reduzir a profundidade da arvore para reduzir as comparações)
+        - TECNICAS DE BALANCEAMENTO
+            - AVL (balanceamento antes de inserir)
+            - DSW (balanceamento conforme insere)
+            - Calculo do balanceameno ou fator de equilibrio (altura esquerda - altura direita)
+        - Rotação
+            * -2 = esquerda
+            * +2 = direita
+        - Tipos de rotação
+            - Simples
+                - pai (- ou +) e filho (- ou +)
+            - Dupla 
+                - pai (- ou +) e filho (+ - -)
 -26/10-
 -PESQUISA DIGITAL
     - Vocabulário
