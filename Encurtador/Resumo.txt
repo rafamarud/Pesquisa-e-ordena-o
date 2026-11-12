@@ -1,0 +1,16 @@
+Sistema p/ Emcurtador
+
+1) Entrar no link Original Ex; www.ufn.edu.br. hashCode(
+
+2) Gerar Hash (positivo) do link original
+
+3) Armazenar em hashmap:
+  chave: hash gerado
+  conteudo: link original
+  
+4) Devolver o link Encurtado: http:<Domínio> /hash
+
+5) Acessar o link Encurtado: 
+  -informar o link encurtado
+  -pesquisar no hashmap pelo hash
+  -devolver o link original
